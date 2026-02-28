@@ -2,7 +2,7 @@
 
 A modern and elegant wedding planning website built with React.
 
-This project is designed to showcase wedding and special event planning services with a luxury and romantic aesthetic.
+This project is designed to showcase wedding and special event planning services with a luxury aesthetic.
 
 ---
 
